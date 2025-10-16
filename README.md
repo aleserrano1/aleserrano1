@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Josue
 
-<!--
-**aleserrano1/aleserrano1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior CS @ St. Edward’s (Dec 2025)** • Full-stack (PERN, Django) • Interested in **AI** & **Cybersecurity**  
+Building reliable backends, clean APIs, and polished UIs.
 
-Here are some ideas to get you started:
+### What I’m working on
+- **Social Web App (PERN)** – posts, search, emoji support, code challenges, profile pages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+**Languages:** Python, JavaScript/TypeScript, SQL, Java, and more.
+**Frameworks:** Django, Express, React, Node, Tailwind, and more.
+**DB/Cloud:** PostgreSQL, SQLite, AWS S3 & CloudFront
+
+### Selected work
+See pinned repos below for write-ups, diagrams, and demos.
+
+### Links
+[LinkedIn](www.linkedin.com/in/josue-serrano-rodriguez-2a535b2b3) • [Email](josue.ale.serrano@gmail.com)
