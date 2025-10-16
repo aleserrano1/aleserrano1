@@ -15,4 +15,4 @@ Building reliable backends, clean APIs, and polished UIs.
 See pinned repos below for write-ups, diagrams, and demos.
 
 ### Links
-[LinkedIn](www.linkedin.com/in/josue-serrano-rodriguez-2a535b2b3) • [Email](josue.ale.serrano@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/josue-serrano-rodriguez-2a535b2b3) • [Email](mailto:josue.ale.serrano@gmail.com)
